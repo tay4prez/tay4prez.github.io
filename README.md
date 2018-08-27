@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tay4prez/tay4prez.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## TAYLOR ALSTON
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CONTACT
 
-### Markdown
+[WEBSITE](http://www.tayloralston.com/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[LINKEDIN](https://www.linkedin.com/in/tayloralston1/)
 
-```markdown
-Syntax highlighted code block
+### ABOUT
 
-# Header 1
-## Header 2
-### Header 3
+I am a designer and a coder with a background in architecture and construction who loves to learn and serve my community.
 
-- Bulleted
-- List
+### EDUCATION
 
-1. Numbered
-2. List
+Tech Elevator - Cleveland, OH May 2018 - August 2018
+*14-week .NET/C# Coding Bootcamp learning how to develop dynamic web based software systems using the .NET programming language.
 
-**Bold** and _Italic_ and `Code` text
+Kent State University - Kent, OH 2013
+*College of Architecture and Environmental Design, 
+*Bachelor of Science Major: Architecture
 
-[Link](url) and ![Image](src)
-```
+### HONORS
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Oscar Ritchie Memorial Scholarship 
+President’s Volunteer Service Award - Gold Level
 
-### Jekyll Themes
+### TECHNICAL SKILLS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tay4prez/tay4prez.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Object Oriented Programming - .NET/C#, Visual Studio 2017
+Web Application Development - HTML, CSS, JavaScript, JQuery, ASP.NET MVC, IIS Express
+Database Management - MS SQL, ADO.NET, Sql queries, table design and creation, E/R diagrams
+Graphic Design - Adobe Photoshop, Adobe Indesign, Adobe Illustrator
+Architectural Design - Autodesk Autocad, Autodesk Revit + Dynamo
+Building Information Modeling - Autodesk Navisworks
+Tools, Processes & Techniques - Design Thinking, Agile, Unit Testing, Integration Testing, TDD, Git command line
 
-### Support or Contact
+### TECHNICAL EXPERIENCE
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TechFitnessPal - Final Capstone
+*Developed a meal tracking app
+*Used C#, ASP.NET  MVC, MS SQL, HTML, CSS, JavaScript, chart.js & Nutritionix API
+
+Cleveland GiveCamp	
+*Developed additional functionality for the Ohio City Bicycle Co-op’s website
+
+National Parks Website, Module  3 - Capstone	
+*Developed a website that allowed a user to view details about a park and complete a survey
+*Used ASP.NET  MVC, MS SQL, HTML & CSS
+
+Campsite Reservation Program, Module  2 - Capstone	
+*Developed software that allowed a user to access a database and reserve a campsite
+*Used MS SQL for database management
+
+Vending Machine Console Program, Module  1 - Capstone
+*Developed software that maintained vending machine inventory
+*Used file.io for vending machine inventory 
+
+### PROFESSIONAL EXPERIENCE
+
+
+CESO Inc. - Designer - Architecture Department, Akron, OH 2016 - April 2018
+*Produced construction documents using AutoCAD and REVIT
+*Completed due dilligence for project
+*Developed 3D modeling standards and workflows
+
+Lake Erie Electric Inc. -  BIM Coordinator,  Westlake, OH 2016 - April 2018
+*Coordinated a building’s electrical and telecommunications systems
+*Prepared shop drawings for field installation
+*Prepared and managed project submittals
+*Estimated costs of services and installation
+
+Frostville Museum - Volunteer Intern, North Olmsted, OH 2007
+*Transcribed documents from the Civil War, the Spanish American War, WWI and WWII eras
+*Participated in museum fundraisers
