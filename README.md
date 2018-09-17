@@ -63,7 +63,7 @@ Vending Machine Console Program, Module  1 - Capstone
 
 CESO Inc. - Designer - Architecture Department, Akron, OH _2016 - April 2018_
 * Produced construction documents using AutoCAD and REVIT
-* Completed due dilligence for project
+* Completed due diligence for project
 * Developed 3D modeling standards and workflows
 
 Lake Erie Electric Inc. -  BIM Coordinator,  Westlake,OH _2014 - 2016_
